@@ -27,3 +27,16 @@ It reads Excel-based financial datasets, performs key business calculations, gen
 ---
 
 📁 Project Structure
+
+│
+├── data/
+│ └── Financial Sample.xlsx
+│
+├── src/
+│ ├── analysis.py
+│ ├── insights.py
+│ ├── report.py
+│
+├── app.py
+├── requirements.txt
+├── README.md
